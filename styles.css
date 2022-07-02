@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: gainsboro;
+}
+
+.titulo{
+    color: orangered;
+}
+
+p{
+    color: black;
+    font-size: 25px;
+}
+
+body {
+    background-color: blue;
+}
+
+.otrodiv{
+    background-color: aqua;
+    width: 100px;
+    height: 80px;
+}
+
+a{
+    display: block;
+}
