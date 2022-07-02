@@ -29,3 +29,5 @@ const objeto = {
 const objeto2 = {
   name: "manolina",
 };
+
+let array =[]
